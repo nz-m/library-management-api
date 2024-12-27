@@ -217,6 +217,7 @@ This project uses JWT (JSON Web Tokens) for authentication.
 
 Once authenticated, include the JWT token in the Authorization header for subsequent requests:
 
-```Authorization: Bearer <your-jwt-token>
 ```
+Authorization: Bearer <your-jwt-token>
 
+```
